@@ -32,9 +32,6 @@ THEN I exit the application, and the HTML is generated
 ```
 
 ## Mock-up
-The following image shows a mock-up of the generated HTML’s appearance and functionality:
-
-![HTML webpage titled “My Team” features boxes with employee information](./src/sample.png)
 
 Video of command line application: https://drive.google.com/file/d/1yUOqGIYBkj02bE8cmmwLDVW3YwIX6Epa/view  
 
